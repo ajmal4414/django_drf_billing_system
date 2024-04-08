@@ -1,0 +1,5 @@
+**py__cache__/
+venv/
+.env
+.vscode
+htmlcov/
